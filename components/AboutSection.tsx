@@ -15,7 +15,7 @@ import {
   Rocket,
   Star,
   Building,
-  ChartBar
+  BarChart
 } from 'lucide-react'
 
 const AboutSection = () => {
